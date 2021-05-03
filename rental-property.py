@@ -1,3 +1,6 @@
+#NOT DONE! 
+
+
 #def __init__(self, n):
 #if type(n) != int: 
 # raise TypeError('Please input an integer.')
